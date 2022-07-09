@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 
 ## İmages
 
-![görsel](https://www.hizliresim.com/rpkigbz)
+![github](images\kodluyoruz-proje1.jpg)
 
 ## Installation
 
